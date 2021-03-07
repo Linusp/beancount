@@ -845,6 +845,15 @@ UNICODE_RANGES = {
            r'\u19d0-\u19d9'
            r'\u1b50-\u1b59'
            r'\uff10-\uff19'),
+    'script=han': (
+        r'\u4e00-\u9fff'
+        r'\u3400-\u4dbf'
+        r'\uf900-\ufaff'
+        r'\uff00-\uffff'
+        r'\u2e80-\u2eff'
+        r'\u3000-\u303f'
+        r'\u31C0-\u31ef'
+    ),
 }
 
 
